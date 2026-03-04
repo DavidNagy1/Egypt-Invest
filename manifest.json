@@ -1,0 +1,37 @@
+{
+  "name": "Egypt Investment Platform",
+  "short_name": "EgyptInvest",
+  "description": "Portfolio Analytics, Advice & Rules Engine",
+  "start_url": "./investment_platform_mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05070F",
+  "theme_color": "#05070F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
